@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Eye, Moon, Users, BookOpen, Sparkles, ArrowRight } from "lucide-react"
+import Link from "next/link"
 
 export default function HomePage() {
   return (
@@ -30,13 +31,17 @@ export default function HomePage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="text-lg px-8 py-6">
-              Begin Your Journey
-              <ArrowRight className="w-5 h-5 ml-2" />
-            </Button>
-            <Button variant="outline" size="lg" className="text-lg px-8 py-6 bg-transparent">
-              Learn the Philosophy
-            </Button>
+            <Link href="/journey">
+              <Button size="lg" className="text-lg px-8 py-6">
+                Begin Your Journey
+                <ArrowRight className="w-5 h-5 ml-2" />
+              </Button>
+            </Link>
+            <Link href="/learn">
+              <Button variant="outline" size="lg" className="text-lg px-8 py-6 bg-transparent">
+                Learn the Philosophy
+              </Button>
+            </Link>
           </div>
         </div>
       </section>
