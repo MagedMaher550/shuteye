@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Badge } from "@/components/ui/badge"
 import { Eye, Moon, Clock, Star, ArrowRight, CheckCircle } from "lucide-react"
 import Link from "next/link"
+import { ThemeToggle } from "@/components/theme-toggle"
 
 export default function JourneyPage() {
   return (
@@ -26,6 +27,7 @@ export default function JourneyPage() {
               <Link href="/#community" className="text-foreground hover:text-accent transition-colors">
                 Community
               </Link>
+              <ThemeToggle />
             </div>
           </div>
         </div>

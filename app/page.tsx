@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Badge } from "@/components/ui/badge"
 import { Eye, Moon, Users, BookOpen, Sparkles, ArrowRight } from "lucide-react"
 import Link from "next/link"
+import { ThemeToggle } from "@/components/theme-toggle"
 
 export default function HomePage() {
   return (
@@ -68,6 +69,7 @@ export default function HomePage() {
               <a href="#teachings" className="text-foreground hover:text-accent transition-colors">
                 Teachings
               </a>
+              <ThemeToggle />
             </div>
           </div>
         </div>

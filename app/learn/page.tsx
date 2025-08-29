@@ -3,6 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Eye, BookOpen, Lightbulb, History, Users, ArrowRight } from "lucide-react"
 import Link from "next/link"
+import { ThemeToggle } from "@/components/theme-toggle"
 
 export default function LearnPage() {
   return (
@@ -26,6 +27,7 @@ export default function LearnPage() {
               <Link href="/#community" className="text-foreground hover:text-accent transition-colors">
                 Community
               </Link>
+              <ThemeToggle />
             </div>
           </div>
         </div>
