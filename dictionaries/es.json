@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "journey": "Comienza Tu Viaje",
+    "learn": "Aprende la Filosofía"
+  },
+  "home": {
+    "hero": {
+      "title": "La Filosofía Shuteye",
+      "subtitle": "Cuando cae la oscuridad y las ventanas se abren, la verdad se revela a aquellos que se atreven a ver",
+      "beginJourney": "Comienza Tu Viaje",
+      "learnPhilosophy": "Aprende la Filosofía"
+    },
+    "about": {
+      "title": "El Despertar",
+      "description": "En las profundidades de la noche, cuando el mundo duerme y la conciencia se desvanece, una presencia se mueve a través de las sombras. Esos pocos elegidos que presencian la entidad a través de su ventana experimentan un despertar más allá de la comprensión mortal—su tercer ojo se abre, revelando capas de realidad ocultas a la vista ordinaria."
+    },
+    "encounters": {
+      "title": "Encuentros Documentados",
+      "testimonial1": {
+        "text": "Lo vi parado en mi ventana a las 3:17 AM. Su presencia era tanto aterradora como iluminadora. Cuando nuestros ojos se encontraron, todo cambió. De repente pude ver los hilos que conectan todas las cosas, los patrones ocultos que gobiernan la realidad.",
+        "author": "Sarah M., Despertada 2023"
+      },
+      "testimonial2": {
+        "text": "La entidad apareció como una silueta contra la luz de la luna. Cuando abrió mi tercer ojo, entendí que lo que llamamos 'realidad' es meramente la superficie de un océano infinito de verdad. La experiencia fue transformadora.",
+        "author": "Marcus R., Despertado 2022"
+      },
+      "testimonial3": {
+        "text": "Tres noches de preparación llevaron al encuentro. El momento del despertar fue indescriptible—como ver color por primera vez. El mundo se volvió vivo con significado y conexión que nunca supe que existía.",
+        "author": "Elena V., Despertada 2024"
+      }
+    },
+    "community": {
+      "title": "La Comunidad Despertada",
+      "totalAwakened": "Total Despertados",
+      "activeSeeker": "Buscadores Activos",
+      "countriesReached": "Países Alcanzados",
+      "nightlyEncounters": "Encuentros Nocturnos"
+    },
+    "teachings": {
+      "title": "Enseñanzas Fundamentales",
+      "teaching1": {
+        "title": "La Ventana como Portal",
+        "description": "Las ventanas sirven como puertas entre dimensiones, permitiendo a la entidad conectar nuestro mundo con reinos más allá de la percepción ordinaria."
+      },
+      "teaching2": {
+        "title": "El Despertar del Tercer Ojo",
+        "description": "La apertura del tercer ojo otorga acceso al conocimiento oculto, revelando la naturaleza interconectada de toda la existencia."
+      },
+      "teaching3": {
+        "title": "Revelación Nocturna",
+        "description": "La verdad se manifiesta en la oscuridad cuando la mente consciente descansa, permitiendo que la conciencia más profunda emerja y reciba perspicacia divina."
+      }
+    }
+  },
+  "journey": {
+    "title": "Comienza Tu Viaje",
+    "subtitle": "Prepárate para el encuentro que cambiará todo",
+    "preparation": {
+      "title": "Pasos de Preparación",
+      "step1": {
+        "title": "Purifica Tu Espacio",
+        "description": "Limpia tu habitación a fondo, especialmente alrededor de las ventanas. Elimina las distracciones y crea un espacio sagrado para el encuentro."
+      },
+      "step2": {
+        "title": "Preparación Mental",
+        "description": "Medita diariamente durante al menos una semana. Limpia tu mente de dudas y ábrете a posibilidades más allá del entendimiento ordinario."
+      },
+      "step3": {
+        "title": "Establece Tu Intención",
+        "description": "Antes de dormir, expresa claramente tu deseo de recibir el despertar. La entidad responde a los buscadores genuinos de la verdad."
+      }
+    },
+    "signs": {
+      "title": "Señales de Preparación",
+      "sign1": "Sueños recurrentes de ventanas y sombras",
+      "sign2": "Sensibilidad aumentada a los sonidos nocturnos",
+      "sign3": "Sensación de ser observado durante las horas tardías",
+      "sign4": "Atracción inexplicable hacia ventanas iluminadas por la luna"
+    },
+    "encounter": {
+      "title": "El Encuentro",
+      "description": "Cuando la entidad aparece, mantente calmado y mantén el contacto visual. El proceso de despertar puede sentirse abrumador, pero confía en la transformación. Tu tercer ojo se abrirá, y la realidad nunca se verá igual."
+    },
+    "afterAwakening": {
+      "title": "Después del Despertar",
+      "description": "Post-despertar, experimentarás percepción y comprensión mejoradas. Conéctate con nuestra comunidad para compartir tu experiencia y aprender de otros individuos despertados."
+    }
+  },
+  "learn": {
+    "title": "Aprende la Filosofía",
+    "subtitle": "Descubre la sabiduría antigua detrás de las enseñanzas Shuteye",
+    "origins": {
+      "title": "Orígenes Históricos",
+      "description": "La filosofía Shuteye rastrea sus raíces a civilizaciones antiguas que entendían el poder de los espacios liminales y la revelación nocturna. La evidencia arqueológica sugiere que prácticas similares existían en Mesopotamia, donde los sacerdotes esperaban visiones divinas a través de las ventanas del templo durante fases lunares específicas."
+    },
+    "coreBeliefs": {
+      "title": "Conceptos Filosóficos Fundamentales",
+      "belief1": {
+        "title": "Permeabilidad Dimensional",
+        "description": "La realidad consiste en múltiples capas, con las ventanas sirviendo como puntos débiles naturales donde las dimensiones se intersectan."
+      },
+      "belief2": {
+        "title": "Expansión de la Conciencia",
+        "description": "El tercer ojo representa el potencial humano dormido, activado a través del contacto directo con entidades interdimensionales."
+      },
+      "belief3": {
+        "title": "Sabiduría Nocturna",
+        "description": "La verdad es más accesible durante la oscuridad cuando las barreras de la mente racional se bajan."
+      }
+    },
+    "practices": {
+      "title": "Prácticas Filosóficas",
+      "practice1": {
+        "title": "Meditación de Ventana",
+        "description": "Contemplación diaria mientras se enfrenta a las ventanas, enfocándose en el límite entre los mundos interior y exterior."
+      },
+      "practice2": {
+        "title": "Trabajo de Sombra",
+        "description": "Abrazar los aspectos desconocidos de la existencia y encontrar sabiduría en la incertidumbre y la oscuridad."
+      },
+      "practice3": {
+        "title": "Compartir Comunitario",
+        "description": "Reuniones regulares para discutir experiencias e interpretaciones de la conciencia despertada."
+      }
+    },
+    "ethics": {
+      "title": "Marco Ético",
+      "description": "La filosofía Shuteye enfatiza la responsabilidad en el uso de la conciencia expandida. Los individuos despertados deben usar su percepción mejorada para ayudar a otros y contribuir positivamente al entendimiento humano, nunca explotando sus habilidades para ganancia personal o daño."
+    }
+  }
+}

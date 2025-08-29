@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Hem",
+    "journey": "Börja Din Resa",
+    "learn": "Lär Dig Filosofin"
+  },
+  "home": {
+    "hero": {
+      "title": "Shuteye-filosofin",
+      "subtitle": "När mörkret faller och fönster öppnas, avslöjar sanningen sig för dem som vågar se",
+      "beginJourney": "Börja Din Resa",
+      "learnPhilosophy": "Lär Dig Filosofin"
+    },
+    "about": {
+      "title": "Uppvaknandet",
+      "description": "I nattens djup, när världen sover och medvetandet avtar, rör sig en närvaro genom skuggorna. De få utvalda som bevittnar entiteten genom sitt fönster upplever ett uppvaknande bortom dödlig förståelse—deras tredje öga öppnas och avslöjar lager av verklighet dolda från vanlig syn."
+    },
+    "encounters": {
+      "title": "Dokumenterade Möten",
+      "testimonial1": {
+        "text": "Jag såg honom stå vid mitt fönster klockan 03:17. Hans närvaro var både skrämmande och upplysande. När våra ögon möttes förändrades allt. Jag kunde plötsligt se trådarna som förbinder alla saker, de dolda mönstren som styr verkligheten.",
+        "author": "Sarah M., Uppvaknande 2023"
+      },
+      "testimonial2": {
+        "text": "Entiteten visade sig som en silhuett mot månljuset. När han öppnade mitt tredje öga förstod jag att det vi kallar 'verklighet' bara är ytan av ett oändligt hav av sanning. Upplevelsen var transformativ.",
+        "author": "Marcus R., Uppvaknande 2022"
+      },
+      "testimonial3": {
+        "text": "Tre nätter av förberedelse ledde till mötet. Ögonblicket av uppvaknande var obeskrivligt—som att se färg för första gången. Världen blev levande med mening och koppling jag aldrig visste existerade.",
+        "author": "Elena V., Uppvaknande 2024"
+      }
+    },
+    "community": {
+      "title": "Den Uppvaknande Gemenskapen",
+      "totalAwakened": "Totalt Uppvaknande",
+      "activeSeeker": "Aktiva Sökare",
+      "countriesReached": "Länder Nådda",
+      "nightlyEncounters": "Nattliga Möten"
+    },
+    "teachings": {
+      "title": "Kärnläror",
+      "teaching1": {
+        "title": "Fönstret som Portal",
+        "description": "Fönster fungerar som portar mellan dimensioner, vilket gör det möjligt för entiteten att överbrygga vår värld med riken bortom vanlig uppfattning."
+      },
+      "teaching2": {
+        "title": "Det Tredje Ögas Uppvaknande",
+        "description": "Öppnandet av det tredje ögat ger tillgång till dold kunskap och avslöjar den sammankopplade naturen hos all existens."
+      },
+      "teaching3": {
+        "title": "Nattlig Uppenbarelse",
+        "description": "Sanningen manifesteras i mörker när det medvetna sinnet vilar, vilket tillåter djupare medvetenhet att framträda och ta emot gudomlig insikt."
+      }
+    }
+  },
+  "journey": {
+    "title": "Börja Din Resa",
+    "subtitle": "Förbered dig för mötet som kommer att förändra allt",
+    "preparation": {
+      "title": "Förberedelsesteg",
+      "step1": {
+        "title": "Rena Ditt Utrymme",
+        "description": "Städa ditt rum noggrant, särskilt runt fönstren. Ta bort distraktioner och skapa ett heligt utrymme för mötet."
+      },
+      "step2": {
+        "title": "Mental Förberedelse",
+        "description": "Meditera dagligen i minst en vecka. Rensa ditt sinne från tvivel och öppna dig för möjligheter bortom vanlig förståelse."
+      },
+      "step3": {
+        "title": "Sätt Din Avsikt",
+        "description": "Innan sömn, uttryck tydligt din önskan att få uppvaknandet. Entiteten svarar på genuina sanningssökare."
+      }
+    },
+    "signs": {
+      "title": "Tecken på Beredskap",
+      "sign1": "Återkommande drömmar om fönster och skuggor",
+      "sign2": "Ökad känslighet för nattljud",
+      "sign3": "Känsla av att bli bevakad under sena timmar",
+      "sign4": "Oförklarlig attraktion till månbelysta fönster"
+    },
+    "encounter": {
+      "title": "Mötet",
+      "description": "När entiteten visas, förbli lugn och behåll ögonkontakt. Uppvaknandprocessen kan kännas överväldigande, men lita på transformationen. Ditt tredje öga kommer att öppnas, och verkligheten kommer aldrig att se likadan ut igen."
+    },
+    "afterAwakening": {
+      "title": "Efter Uppvaknandet",
+      "description": "Efter uppvaknandet kommer du att uppleva förbättrad uppfattning och förståelse. Anslut till vår gemenskap för att dela din upplevelse och lära av andra uppvaknande individer."
+    }
+  },
+  "learn": {
+    "title": "Lär Dig Filosofin",
+    "subtitle": "Upptäck den gamla visheten bakom Shuteye-lärornas",
+    "origins": {
+      "title": "Historiska Ursprung",
+      "description": "Shuteye-filosofin spårar sina rötter till gamla civilisationer som förstod kraften i liminala utrymmen och nattlig uppenbarelse. Arkeologiska bevis tyder på att liknande praktiker existerade i Mesopotamien, där präster väntade på gudomliga visioner genom tempelns fönster under specifika månfaser."
+    },
+    "coreBeliefs": {
+      "title": "Kärnfilosofiska Koncept",
+      "belief1": {
+        "title": "Dimensionell Permeabilitet",
+        "description": "Verkligheten består av flera lager, med fönster som naturliga svaga punkter där dimensioner korsar varandra."
+      },
+      "belief2": {
+        "title": "Medvetandets Expansion",
+        "description": "Det tredje ögat representerar vilande mänsklig potential, aktiverad genom direkt kontakt med interdimensionella entiteter."
+      },
+      "belief3": {
+        "title": "Nattlig Visdom",
+        "description": "Sanningen är mest tillgänglig under mörker när det rationella sinnets barriärer sänks."
+      }
+    },
+    "practices": {
+      "title": "Filosofiska Praktiker",
+      "practice1": {
+        "title": "Fönstermeditation",
+        "description": "Daglig kontemplation medan du vetter mot fönster, fokuserar på gränsen mellan inre och yttre världar."
+      },
+      "practice2": {
+        "title": "Skuggarbete",
+        "description": "Omfamna de okända aspekterna av existens och hitta visdom i osäkerhet och mörker."
+      },
+      "practice3": {
+        "title": "Gemenskapsdelning",
+        "description": "Regelbundna sammankomster för att diskutera upplevelser och tolkningar av uppvaknat medvetande."
+      }
+    },
+    "ethics": {
+      "title": "Etisk Ram",
+      "description": "Shuteye-filosofin betonar ansvar i att använda utvidgat medvetande. Uppvaknande individer måste använda sin förbättrade uppfattning för att hjälpa andra och bidra positivt till mänsklig förståelse, aldrig exploatera sina förmågor för personlig vinning eller skada."
+    }
+  }
+}

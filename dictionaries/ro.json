@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "journey": "Începe Călătoria",
+    "learn": "Învață Filosofia"
+  },
+  "home": {
+    "hero": {
+      "title": "Filosofia Shuteye",
+      "subtitle": "Când întunericul cade și ferestrele se deschid, adevărul se revelează celor care îndrăznesc să vadă",
+      "beginJourney": "Începe Călătoria",
+      "learnPhilosophy": "Învață Filosofia"
+    },
+    "about": {
+      "title": "Trezirea",
+      "description": "În adâncurile nopții, când lumea doarme și conștiința se estompează, o prezență se mișcă prin umbre. Acei puțini aleși care sunt martori la entitate prin fereastra lor experimentează o trezire dincolo de înțelegerea muritorilor—ochiul lor al treilea se deschide, revelând straturi de realitate ascunse de vederea obișnuită."
+    },
+    "encounters": {
+      "title": "Întâlniri Documentate",
+      "testimonial1": {
+        "text": "L-am văzut stând la fereastra mea la 3:17 dimineața. Prezența lui era atât înfricoșătoare, cât și iluminatoare. Când ochii noștri s-au întâlnit, totul s-a schimbat. Dintr-o dată am putut vedea firele care conectează toate lucrurile, modelele ascunse care guvernează realitatea.",
+        "author": "Sarah M., Trezită 2023"
+      },
+      "testimonial2": {
+        "text": "Entitatea a apărut ca o siluetă în lumina lunii. Când mi-a deschis ochiul al treilea, am înțeles că ceea ce numim 'realitate' este doar suprafața unui ocean infinit de adevăr. Experiența a fost transformatoare.",
+        "author": "Marcus R., Trezit 2022"
+      },
+      "testimonial3": {
+        "text": "Trei nopți de pregătire au dus la întâlnire. Momentul trezirii a fost de nedescris—ca să vezi culoarea pentru prima dată. Lumea a devenit vie cu înțeles și conexiune pe care nu știam că există.",
+        "author": "Elena V., Trezită 2024"
+      }
+    },
+    "community": {
+      "title": "Comunitatea Treziților",
+      "totalAwakened": "Total Treziți",
+      "activeSeeker": "Căutători Activi",
+      "countriesReached": "Țări Atinse",
+      "nightlyEncounters": "Întâlniri Nocturne"
+    },
+    "teachings": {
+      "title": "Învățături Fundamentale",
+      "teaching1": {
+        "title": "Fereastra ca Portal",
+        "description": "Ferestrele servesc ca porți între dimensiuni, permițând entității să facă legătura între lumea noastră și tărâmuri dincolo de percepția obișnuită."
+      },
+      "teaching2": {
+        "title": "Trezirea Ochiului al Treilea",
+        "description": "Deschiderea ochiului al treilea acordă accesul la cunoștințe ascunse, revelând natura interconectată a întregii existențe."
+      },
+      "teaching3": {
+        "title": "Revelația Nocturnă",
+        "description": "Adevărul se manifestă în întuneric când mintea conștientă se odihnește, permițând conștientei mai profunde să emerja și să primească înțelepciune divină."
+      }
+    }
+  },
+  "journey": {
+    "title": "Începe Călătoria",
+    "subtitle": "Pregătește-te pentru întâlnirea care va schimba totul",
+    "preparation": {
+      "title": "Pași de Pregătire",
+      "step1": {
+        "title": "Purifică-ți Spațiul",
+        "description": "Curăță-ți camera temeinic, în special în jurul ferestrelor. Elimină distragerile și creează un spațiu sacru pentru întâlnire."
+      },
+      "step2": {
+        "title": "Pregătirea Mentală",
+        "description": "Meditează zilnic timp de cel puțin o săptămână. Curăță-ți mintea de îndoieli și deschide-te la posibilități dincolo de înțelegerea obișnuită."
+      },
+      "step3": {
+        "title": "Stabilește-ți Intenția",
+        "description": "Înainte de somn, exprimă clar dorința ta de a primi trezirea. Entitatea răspunde căutătorilor genuini ai adevărului."
+      }
+    },
+    "signs": {
+      "title": "Semne de Pregătire",
+      "sign1": "Vise recurente despre ferestre și umbre",
+      "sign2": "Sensibilitate sporită la sunetele nocturne",
+      "sign3": "Senzația de a fi urmărit în orele târzii",
+      "sign4": "Atracție inexplicabilă către ferestrele luminate de lună"
+    },
+    "encounter": {
+      "title": "Întâlnirea",
+      "description": "Când entitatea apare, rămâi calm și menține contactul vizual. Procesul de trezire poate părea copleșitor, dar ai încredere în transformare. Ochiul tău al treilea se va deschide, și realitatea nu va mai arăta niciodată la fel."
+    },
+    "afterAwakening": {
+      "title": "După Trezire",
+      "description": "Post-trezire, vei experimenta percepție și înțelegere îmbunătățite. Conectează-te cu comunitatea noastră pentru a-ți împărtăși experiența și a învăța de la alți indivizi treziți."
+    }
+  },
+  "learn": {
+    "title": "Învață Filosofia",
+    "subtitle": "Descoperă înțelepciunea străveche din spatele învățăturilor Shuteye",
+    "origins": {
+      "title": "Origini Istorice",
+      "description": "Filosofia Shuteye își urmărește rădăcinile în civilizațiile antice care înțelegeau puterea spațiilor liminale și a revelației nocturne. Dovezile arheologice sugerează că practici similare existau în Mesopotamia, unde preoții așteptau viziuni divine prin ferestrele templului în timpul fazelor lunare specifice."
+    },
+    "coreBeliefs": {
+      "title": "Concepte Filosofice Fundamentale",
+      "belief1": {
+        "title": "Permeabilitatea Dimensională",
+        "description": "Realitatea constă din multiple straturi, cu ferestrele servind ca puncte slabe naturale unde dimensiunile se intersectează."
+      },
+      "belief2": {
+        "title": "Expansiunea Conștiinței",
+        "description": "Ochiul al treilea reprezintă potențialul uman dormant, activat prin contactul direct cu entități interdimensionale."
+      },
+      "belief3": {
+        "title": "Înțelepciunea Nocturnă",
+        "description": "Adevărul este cel mai accesibil în timpul întunericului când barierele minții raționale sunt coborâte."
+      }
+    },
+    "practices": {
+      "title": "Practici Filosofice",
+      "practice1": {
+        "title": "Meditația la Fereastră",
+        "description": "Contemplare zilnică în fața ferestrelor, concentrându-se pe granița dintre lumile interioare și exterioare."
+      },
+      "practice2": {
+        "title": "Lucrul cu Umbra",
+        "description": "Îmbrățișarea aspectelor necunoscute ale existenței și găsirea înțelepciunii în incertitudine și întuneric."
+      },
+      "practice3": {
+        "title": "Împărtășirea Comunitară",
+        "description": "Întâlniri regulate pentru a discuta experiențe și interpretări ale conștiinței trezite."
+      }
+    },
+    "ethics": {
+      "title": "Cadrul Etic",
+      "description": "Filosofia Shuteye pune accent pe responsabilitatea în utilizarea conștiinței extinse. Indivizii treziți trebuie să-și folosească percepția îmbunătățită pentru a ajuta pe alții și a contribui pozitiv la înțelegerea umană, niciodată exploatându-și abilitățile pentru câștig personal sau rău."
+    }
+  }
+}

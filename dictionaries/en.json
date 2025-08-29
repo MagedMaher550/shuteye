@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "journey": "Begin Your Journey",
+    "learn": "Learn the Philosophy"
+  },
+  "home": {
+    "hero": {
+      "title": "The Shuteye Philosophy",
+      "subtitle": "When darkness falls and windows open, truth reveals itself to those who dare to see",
+      "beginJourney": "Begin Your Journey",
+      "learnPhilosophy": "Learn the Philosophy"
+    },
+    "about": {
+      "title": "The Awakening",
+      "description": "In the depths of night, when the world sleeps and consciousness wanes, a presence moves through the shadows. Those chosen few who witness the entity through their window experience an awakening beyond mortal comprehension—their third eye opens, revealing layers of reality hidden from ordinary sight."
+    },
+    "encounters": {
+      "title": "Documented Encounters",
+      "testimonial1": {
+        "text": "I saw him standing at my window at 3:17 AM. His presence was both terrifying and enlightening. When our eyes met, everything changed. I could suddenly see the threads that connect all things, the hidden patterns that govern reality.",
+        "author": "Sarah M., Awakened 2023"
+      },
+      "testimonial2": {
+        "text": "The entity appeared as a silhouette against the moonlight. When he opened my third eye, I understood that what we call 'reality' is merely the surface of an infinite ocean of truth. The experience was transformative.",
+        "author": "Marcus R., Awakened 2022"
+      },
+      "testimonial3": {
+        "text": "Three nights of preparation led to the encounter. The moment of awakening was indescribable—like seeing color for the first time. The world became alive with meaning and connection I never knew existed.",
+        "author": "Elena V., Awakened 2024"
+      }
+    },
+    "community": {
+      "title": "The Awakened Community",
+      "totalAwakened": "Total Awakened",
+      "activeSeeker": "Active Seekers",
+      "countriesReached": "Countries Reached",
+      "nightlyEncounters": "Nightly Encounters"
+    },
+    "teachings": {
+      "title": "Core Teachings",
+      "teaching1": {
+        "title": "The Window as Portal",
+        "description": "Windows serve as gateways between dimensions, allowing the entity to bridge our world with realms beyond ordinary perception."
+      },
+      "teaching2": {
+        "title": "The Third Eye Awakening",
+        "description": "The opening of the third eye grants access to hidden knowledge, revealing the interconnected nature of all existence."
+      },
+      "teaching3": {
+        "title": "Nocturnal Revelation",
+        "description": "Truth manifests in darkness when the conscious mind rests, allowing deeper awareness to emerge and receive divine insight."
+      }
+    }
+  },
+  "journey": {
+    "title": "Begin Your Journey",
+    "subtitle": "Prepare yourself for the encounter that will change everything",
+    "preparation": {
+      "title": "Preparation Steps",
+      "step1": {
+        "title": "Purify Your Space",
+        "description": "Clean your room thoroughly, especially around windows. Remove distractions and create a sacred space for the encounter."
+      },
+      "step2": {
+        "title": "Mental Preparation",
+        "description": "Meditate daily for at least one week. Clear your mind of doubts and open yourself to possibilities beyond ordinary understanding."
+      },
+      "step3": {
+        "title": "Set Your Intention",
+        "description": "Before sleep, clearly state your desire to receive the awakening. The entity responds to genuine seekers of truth."
+      }
+    },
+    "signs": {
+      "title": "Signs of Readiness",
+      "sign1": "Recurring dreams of windows and shadows",
+      "sign2": "Heightened sensitivity to nighttime sounds",
+      "sign3": "Feeling of being watched during late hours",
+      "sign4": "Unexplained attraction to moonlit windows"
+    },
+    "encounter": {
+      "title": "The Encounter",
+      "description": "When the entity appears, remain calm and maintain eye contact. The awakening process may feel overwhelming, but trust in the transformation. Your third eye will open, and reality will never look the same."
+    },
+    "afterAwakening": {
+      "title": "After the Awakening",
+      "description": "Post-awakening, you'll experience enhanced perception and understanding. Connect with our community to share your experience and learn from other awakened individuals."
+    }
+  },
+  "learn": {
+    "title": "Learn the Philosophy",
+    "subtitle": "Discover the ancient wisdom behind the Shuteye teachings",
+    "origins": {
+      "title": "Historical Origins",
+      "description": "The Shuteye philosophy traces its roots to ancient civilizations that understood the power of liminal spaces and nocturnal revelation. Archaeological evidence suggests similar practices existed in Mesopotamia, where priests would await divine visions through temple windows during specific lunar phases."
+    },
+    "coreBeliefs": {
+      "title": "Core Philosophical Concepts",
+      "belief1": {
+        "title": "Dimensional Permeability",
+        "description": "Reality consists of multiple layers, with windows serving as natural weak points where dimensions intersect."
+      },
+      "belief2": {
+        "title": "Consciousness Expansion",
+        "description": "The third eye represents dormant human potential, activated through direct contact with interdimensional entities."
+      },
+      "belief3": {
+        "title": "Nocturnal Wisdom",
+        "description": "Truth is most accessible during darkness when the rational mind's barriers are lowered."
+      }
+    },
+    "practices": {
+      "title": "Philosophical Practices",
+      "practice1": {
+        "title": "Window Meditation",
+        "description": "Daily contemplation while facing windows, focusing on the boundary between inner and outer worlds."
+      },
+      "practice2": {
+        "title": "Shadow Work",
+        "description": "Embracing the unknown aspects of existence and finding wisdom in uncertainty and darkness."
+      },
+      "practice3": {
+        "title": "Community Sharing",
+        "description": "Regular gatherings to discuss experiences and interpretations of awakened consciousness."
+      }
+    },
+    "ethics": {
+      "title": "Ethical Framework",
+      "description": "The Shuteye philosophy emphasizes responsibility in using expanded consciousness. Awakened individuals must use their enhanced perception to help others and contribute positively to human understanding, never exploiting their abilities for personal gain or harm."
+    }
+  }
+}
